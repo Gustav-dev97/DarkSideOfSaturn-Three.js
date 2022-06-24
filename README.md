@@ -1,5 +1,5 @@
 # DarkSideOfSaturn-Three.js
-Uma simples demonstração de um animação feita em Three JS com o objetvo de demonstrar oclusion lights
+Uma simples demonstração de um animação feita em Three JS com o objetivo de demonstrar o básico sobre ThreeJS + Oclusion Lights
 
 Obs: Por ser uma animação leve as estrelas foram criadas usando uma função, porém em um projeto mais complexo é recomendado usar 'particles'. 
 As variáveis de preferência devem ser declaradas no inicio do projeto e usadas localmente pela função init(), apenas por ser um projeto demonstrativo foram declaradas como variáveis globais.
