@@ -6,7 +6,7 @@ As variáveis de preferência devem ser declaradas no inicio do projeto e usadas
 
 O projeto foi criado usando Vite JS, para criar seu próprio projeto com ele basta usar o comando abaixo:
 
-    npm init @vitejs/apps
+    npm init @vitejs/app
     
 Para instalar o ThreeJS:
 
