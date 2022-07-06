@@ -8,6 +8,10 @@ O projeto foi criado usando Vite JS, para criar seu próprio projeto com ele bas
 
     npm init @vitejs/app
     
+Instalar dependências (Apenas no primeiro uso):
+        
+    npm install    
+    
 Para instalar o ThreeJS:
 
     npm install three
