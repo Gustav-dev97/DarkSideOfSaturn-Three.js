@@ -16,6 +16,10 @@ Para instalar o ThreeJS:
 
     npm install three
     
+Instalar Postprocessing
+
+    npm install three postprocessing
+
 Para executar o projeto no Browser    
     
     npm run dev
